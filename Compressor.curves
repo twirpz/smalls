@@ -1,0 +1,14 @@
+[rgb]
+channel.cnt = 3
+channel.valueRange = 256
+channel.data = 0 0 0 255 255
+channel.data = 1 0 0 255 255
+channel.data = 2 0 0 255 255
+[sat]
+channel.cnt = 1
+channel.valueRange = 256
+channel.data = 0 0 0 131 124 255 255
+[lum]
+channel.cnt = 1
+channel.valueRange = 256
+channel.data = 0 0 0 10 22 29 46 52 67 126 121 199 187 255 255
